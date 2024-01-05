@@ -15,10 +15,10 @@ cd Python-3.7.4
 make altinstall
 ```
 **Execute Python**
-
+```
 /opt/Python-3.7.4/python3.7 --version
 /opt/Python-3.7.4//pip3.7 --version
-
+```
 **Link python to system command**
 ```
 ln -s /opt/Python-3.7.4/python3.7 /bin/python3
