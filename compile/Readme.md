@@ -1,7 +1,8 @@
 
 **#Install Requirements for Compile** 
+```
 yum install gcc openssl-devel bzip2-devel libffi-devel
-
+```
 **Download Python form source code**
 Downlaod Link: https://www.python.org/ftp/python/3.12.1/Python-3.12.1.tgz
 ```
